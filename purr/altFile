@@ -1,0 +1,9 @@
+#!/bin/sh
+
+fetches() {
+  echo "This is a test!"
+}
+
+coreutils() {
+  echo "This is a another test!!!"
+}
