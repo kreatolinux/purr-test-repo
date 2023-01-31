@@ -4,7 +4,7 @@ RELEASE="1"
 VERSION="7.1.2"
 ALTERNATIVE_TO="fetches coreutils"
 SOURCES="https://github.com/kreatolinux/neofetch/archive/refs/tags/$VERSION.tar.gz"
-SHA256SUM="943e3eedff9bcdcbb51cffa11395e97fcd1daa5b77c766f0d52b366bf4e8ac50  7.1.2.tar.gz"
+SHA256SUM="0f68e99baed5bc1f4d234dde050cd3fc68a06d3562209c16a58c8ebc9618ab68  7.1.2.tar.gz"
 DESCRIPTION="*purr* this is a test package *purr*"
 
 build() {
