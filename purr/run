@@ -9,5 +9,8 @@ DESCRIPTION="*purr* this is a test package *purr*"
 
 build() {
     echo "It works i suppose!"
+}
+
+install() {
     touch $ROOT/testfile
 }
